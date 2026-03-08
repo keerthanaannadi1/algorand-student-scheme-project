@@ -162,7 +162,6 @@ Algorand Blockchain Application Developer
 
 This project is licensed under the MIT License.
 
----
 
 ## Future Improvements
 
@@ -171,6 +170,3 @@ This project is licensed under the MIT License.
 * Integrate wallet authentication
 * Build a frontend interface for interacting with smart contracts
 
----
-
-⭐ If you find this project helpful, consider giving it a star on GitHub.
